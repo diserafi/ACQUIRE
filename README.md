@@ -4,7 +4,7 @@
 
 ## Authors
 Daniela di Serafino, University of Campania "Luigi Vanvitelli", Caserta, Italy, daniela.diserafino[at]unicampania.it
-Germana Landi, University of Bologna, Bologna, Italy, germana.landi[at]unibo.it
+Germana Landi, University of Bologna, Bologna, Italy, germana.landi[at]unibo.it    
 Marco Viola, University of Campania "Luigi Vanvitelli", Caserta, Italy, marco.viola[at]unicampania.it
 
 ## Last Update
