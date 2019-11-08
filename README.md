@@ -22,10 +22,10 @@ modeling, e.g., the restoration of images corrupted by Poisson noise.
 
 The objective function is the sum of a data-fidelity term consisting of
 the generalized Kullback-Leibler (KL) divergence of the blurred image
-(A*x + b) from the observed image (y) (see eq. (2) in [1]) and a
+`(A*x + b)` from the observed image (y) (see eq. (2) in [1]) and a
 regularization term consisting of the discrete isotropic Total
-Variation (TV) (see eq. (3) in [1]) with weight lambda. Here A is a
-linear blurring operator and b is the background noise.
+Variation (TV) (see eq. (3) in [1]) with weight `lambda`. Here `A` is a
+linear blurring operator and `b` is the background noise.
 
 The feasible set Omega represents either nonnegativity constraints, i.e.,
 
